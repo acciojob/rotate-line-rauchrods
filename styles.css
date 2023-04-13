@@ -9,6 +9,7 @@
     animation-iteration-count: infinite;
     margin-top: 100px;
     margin-right: 100px;
+	 position: absolute;
 }
 @keyframes myrotation{
     from{
